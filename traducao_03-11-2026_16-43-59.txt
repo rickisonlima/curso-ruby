@@ -1,0 +1,6 @@
+Data: 03/11/2026 16:43:59
+Idioma de origem: pt
+Idioma de destino: en
+
+Texto original: Este é o projeto final do meu curso de Ruby.
+Texto traduzido: This is the final project of my Ruby course.
